@@ -42,6 +42,10 @@
   content: "\ec4a";
 }
 
+.icon-stack_overflow:before {
+  content: "\ec4a";
+}
+
 .icon-heart:before {
   content: "\e9b5";
 }
